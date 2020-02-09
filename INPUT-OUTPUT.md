@@ -19,6 +19,7 @@
 **Note：**
 
 1. 输入
+
 OJ 采用黑盒测试进行检验，测试数据放在文件中，若未给定输入结束条件，默认读取到文件末尾。
 
 &ensp;&ensp;&ensp;&ensp;1.1 无输入结束条件（Pro.ID 1089）
@@ -51,6 +52,7 @@ while (cin >> a >> b, a || b) {
 }
 ```
 2. 输出
+
 输出格式是易错项，格式错误将导致 **Presentation Error**
 
 &ensp;&ensp;&ensp;&ensp;2.1 正常输出
