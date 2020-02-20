@@ -2,6 +2,16 @@
 
 [Input-Output](https://github.com/Lsyhprum/HDUOJ/blob/master/INPUT-OUTPUT.md)
 
+[STRING](https://github.com/Lsyhprum/HDUOJ/blob/master/STRING.md)
+
+[1064. Financial Management](https://github.com/Lsyhprum/HDUOJ/tree/master/1064)
+
+[1170. Balloon Comes!](https://github.com/Lsyhprum/HDUOJ/tree/master/1170)
+
+[1197. Specialized Four-Digit Numbers](https://github.com/Lsyhprum/HDUOJ/tree/master/1197)
+
+[1720. A+B Coming](https://github.com/Lsyhprum/HDUOJ/tree/master/1720)
+
 [2000. ASCII码排序](https://github.com/Lsyhprum/HDUOJ/tree/master/2000)
 
 [2001. 计算两点间的距离](https://github.com/Lsyhprum/HDUOJ/tree/master/2001)
@@ -27,3 +37,5 @@
 [2011. 多项式求和](https://github.com/Lsyhprum/HDUOJ/tree/master/2011)
 
 [2039. 三角形](https://github.com/Lsyhprum/HDUOJ/tree/master/2039)
+
+[2734. Quicksum](https://github.com/Lsyhprum/HDUOJ/tree/master/2734)
