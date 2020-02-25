@@ -1,5 +1,5 @@
 # HDUOJ
 
-[Water~~~]()
+[WATER~~~](https://github.com/Lsyhprum/HDUOJ/blob/master/WATER.md)
 
 
