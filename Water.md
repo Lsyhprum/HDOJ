@@ -1,5 +1,18 @@
 # Water
 
+[2000. ASCII码排序*](https://github.com/Lsyhprum/HDUOJ/tree/master/2000)
+
+[2004. 成绩转换](https://github.com/Lsyhprum/HDUOJ/tree/master/2004)
+
+[2005. 第几天*](https://github.com/Lsyhprum/HDUOJ/tree/master/2005)
+
+[2006. 求奇数的乘积](https://github.com/Lsyhprum/HDUOJ/tree/master/2006)
+
+[2007. 平方和与立方和*](https://github.com/Lsyhprum/HDUOJ/tree/master/2007)
+
+
+
+
 
 
 [STRING](https://github.com/Lsyhprum/HDUOJ/blob/master/STRING.md)
@@ -17,7 +30,6 @@
 
 
 
-[2000. ASCII码排序](https://github.com/Lsyhprum/HDUOJ/tree/master/2000)
 
 
 
@@ -33,17 +45,15 @@
 
 
 
-[2002. 计算球体积](https://github.com/Lsyhprum/HDUOJ/tree/master/2002)
 
-[2003. 求绝对值](https://github.com/Lsyhprum/HDUOJ/tree/master/2003)
 
-[2004. 成绩转换](https://github.com/Lsyhprum/HDUOJ/tree/master/2004)
 
-[2005. 第几天？](https://github.com/Lsyhprum/HDUOJ/tree/master/2005)
 
-[2006. 求奇数的乘积](https://github.com/Lsyhprum/HDUOJ/tree/master/2006)
 
-[2007. 平方和与立方和](https://github.com/Lsyhprum/HDUOJ/tree/master/2007)
+
+
+
+
 
 [2008. 数值统计](https://github.com/Lsyhprum/HDUOJ/tree/master/2008)
 

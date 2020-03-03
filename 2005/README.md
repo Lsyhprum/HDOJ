@@ -4,6 +4,7 @@ http://acm.hdu.edu.cn/showproblem.php?pid=2005
 
 **Note**:
 
-查表法
+日期处理
 
-慎重改变表内数据
+1. 平年与闰年判断（二月天数）
+2. 大月与小月

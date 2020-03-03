@@ -11,3 +11,5 @@ http://acm.hdu.edu.cn/showproblem.php?pid=2007
     * i & 1 = 1 奇数
     
 	* i & 1 = 0 偶数
+
+* int 4B

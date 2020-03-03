@@ -18,5 +18,5 @@ int main() {
 /*
 	以下两种方法计算结果不同
 	cout << 4 / 3 * PI << endl;
-	cout << (float)4 / 3 * PI << endl;
+	cout << 4.0f / 3 * PI << endl;
 */

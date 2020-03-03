@@ -70,6 +70,10 @@ while (cin >> a >> b, a || b) {
 
 [2001. 计算两点间的距离](https://github.com/Lsyhprum/HDUOJ/tree/master/2001)
 
+[2002. 计算球体积](https://github.com/Lsyhprum/HDUOJ/tree/master/2002)
+
+[2003. 求绝对值](https://github.com/Lsyhprum/HDUOJ/tree/master/2003)
+
 
 #### endl 和 \n
 
