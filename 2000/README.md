@@ -9,7 +9,7 @@ http://acm.hdu.edu.cn/showproblem.php?pid=2000
 * 两数交换的方法(solution1.cpp)
 
     * 借助其他变量交换，**简单但最有效**
-    * 异或运算，无需额外变量，计算速度并不会提升且易导致未定义行为，**不提倡使用**
+    * 异或运算，无需额外变量，计算速度并不会提升且易导致未定义行为([2016. 数据的交换输出](https://github.com/Lsyhprum/HDUOJ/tree/master/2016))，**不提倡使用**
     * 加减交换，无需额外变量，**容易溢出**
 
 * STL sort
