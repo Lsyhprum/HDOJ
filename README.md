@@ -1,5 +1,5 @@
 # HDUOJ
 
-[WATER~~~](https://github.com/Lsyhprum/HDUOJ/blob/master/WATER.md)
+[Input-Output](https://github.com/Lsyhprum/HDUOJ/blob/master/INPUT-OUTPUT.md)
 
 
