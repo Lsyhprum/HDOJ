@@ -54,6 +54,10 @@ while (cin >> a >> b, a || b) {
 
 输出格式是易错项，格式错误将导致 **Presentation Error** 乃至 **Time Limit Exceeded**
 
+#### endl 和 \n
+
+endl 会输出 \n，然后刷新缓冲区，速度比 \n 慢，不建议使用
+
 #### 输出后加空行
 
 [1095. A+B for Input-Output Practice (Ⅶ)](https://github.com/Lsyhprum/HDUOJ/blob/master/1095/1095.cpp)
@@ -68,13 +72,42 @@ while (cin >> a >> b, a || b) {
 
 #### 输出格式
 
-[2001. 计算两点间的距离](https://github.com/Lsyhprum/HDUOJ/tree/master/2001)
+c++ 中 cout 使用流操作算子或成员函数对输出格式进行控制，其均在头文件 iomanip 中定义
 
-[2002. 计算球体积](https://github.com/Lsyhprum/HDUOJ/tree/master/2002)
+<style>
+table th:first-of-type {
+    width: 20%;
+}
+table th:nth-of-type(2) {
+    width: 20%;
+}
+table th:nth-of-type(3) {
+    width: 60%;
+}
+</style>
 
-[2003. 求绝对值](https://github.com/Lsyhprum/HDUOJ/tree/master/2003)
+| cout      | printf |     作用 |
+| :----: | :---:|  :-----: |
+| dec(默认)    | %d |   十进制整数 |
+| hex| %x,%X |	十六进制整数|
+| oct| %o |	八进制整数|
+| fixed| |	普通小数浮点数|
+| scientific|%e,%E |	科学计数法浮点数|
+| left|%-d|	左对齐|
+| right(默认)|%+d(默认)|	右对齐|
+| setbase(b)| |	设置输出整数时的进制，b=8、10 或 16|
+| setw(w)|%wd|	最小字符宽度w|
+| setfill(c)||	在指定输出宽度的情况下，输出的宽度不足时用字符 c 填充（默认情况是用空格填充）|
+| setprecision(n)|%g,%G,%.nf|	设置输出浮点数的精度为 n。在使用非 fixed 且非 scientific 方式输出的情况下，n 即为有效数字最多的位数，如果有效数字位数超过 n，则小数部分四舍五人，或自动变为科学计 数法输出并保留一共 n 位有效数字。在使用 fixed 方式和 scientific 方式输出的情况下，n 是小数点后面应保留的位数。|
+| uppercase||	十六进制数中使用 A~E。若输出前缀，则前缀输出 0X，科学计数法中输出 E|
+| *nouppercase||	十六进制数中使用 a~e。若输出前缀，则前缀输出 0x，科学计数法中输出 e|
 
 
-#### endl 和 \n
 
-endl 会输出 \n，然后刷新缓冲区，速度比 \n 慢，不建议使用
+
+
+
+
+*参考：*
+
+[C语言的格式化输出函数printf](https://blog.csdn.net/lemonrabbit1987/article/details/47246875)
