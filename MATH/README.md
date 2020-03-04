@@ -2,11 +2,11 @@
 
 ## 素数
 
-[2012. 素数判定](https://github.com/Lsyhprum/HDUOJ/tree/master/2012)
+[2012. 素数判定](https://github.com/Lsyhprum/HDUOJ/tree/master/MATH/2012)
 
 ## 最大公因数/最小公倍数
 
-[2028. Lowest Common Multiple Plus](https://github.com/Lsyhprum/HDUOJ/tree/master/2028)
+[2028. Lowest Common Multiple Plus](https://github.com/Lsyhprum/HDUOJ/tree/master/MATH/2028)
 
 最大公因数(辗转相除法)：
 

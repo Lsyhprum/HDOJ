@@ -8,7 +8,9 @@
 
 [DP](https://github.com/Lsyhprum/HDUOJ/blob/master/DP)
 
-[COMPUTATIONAL GEOMETRY](https://github.com/Lsyhprum/HDUOJ/blob/master/COMPUTATIONAL GEOMETRY)
+[GREEDY](https://github.com/Lsyhprum/HDUOJ/blob/master/GREEDY)
+
+[GEOMETRY](https://github.com/Lsyhprum/HDUOJ/blob/master/GEOMETRY)
 
 [WATER](https://github.com/Lsyhprum/HDUOJ/blob/master/WATER)
 
