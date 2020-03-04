@@ -9,7 +9,7 @@ int table[5];
 int main(){
     int n;
     cin >> n;
-    getchar();
+    getchar();                     // 反思：常见错误
     string s;
     while(n --){
         memset(table, 0, sizeof(table));

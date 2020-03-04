@@ -1,17 +1,15 @@
-cin cin.get()  cin.getline() gets()
+# 2026. 首字母变大写
 
->> 会过滤掉不可见字符（空格 回车 TAB)
+http://acm.hdu.edu.cn/showproblem.php?pid=2026
 
-cin >> 接收一个字符串，遇到 空格 tab 回车 结束
+**Note**:
 
-cin.get(字符数组名，接收字符数目) 可以接收一行字符串，可以接收空格
+字母判定与大小写转化
 
-cin.getline(接收字符数组，接收个数,结束字符) 接收字符串，可以接收空格并输出
+1. 判断是否字母 : isalpha()
 
-eg:jklijkl
-cin.getline(m, t)
-jklj 最后一个是 '\0'(字符数组结束标志)
+2. 判断字符大小写 : islower() / isupper()
 
-cin.getline() 属于istream, 接收为字符数组
+3. 小写字母转大写 : tolower() / toupper()
 
-getline 属于 string 需要 string 头文件
+注意：以上函数输出均为 int，需要引入<cctype>

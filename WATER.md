@@ -36,10 +36,22 @@
 
 [2020. 绝对值排序*](https://github.com/Lsyhprum/HDUOJ/tree/master/2020)
 
+[2021. 发工资咯：）](https://github.com/Lsyhprum/HDUOJ/tree/master/2021)
+
+[2022. 海选女主角](https://github.com/Lsyhprum/HDUOJ/tree/master/2022)
+
+[2023. 求平均成绩*](https://github.com/Lsyhprum/HDUOJ/tree/master/2023)
+
+[2024. C语言合法标识符](https://github.com/Lsyhprum/HDUOJ/tree/master/2024)
+
+[2025. 查找最大元素*](https://github.com/Lsyhprum/HDUOJ/tree/master/2025)
 
 
 
-[STRING](https://github.com/Lsyhprum/HDUOJ/blob/master/STRING.md)
+
+
+
+
 
 [1064. Financial Management](https://github.com/Lsyhprum/HDUOJ/tree/master/1064)
 
