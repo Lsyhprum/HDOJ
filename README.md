@@ -8,6 +8,8 @@
 
 [DP](https://github.com/Lsyhprum/HDUOJ/blob/master/DP)
 
+[COMPUTATIONAL GEOMETRY](https://github.com/Lsyhprum/HDUOJ/blob/master/COMPUTATIONAL GEOMETRY)
+
 [WATER](https://github.com/Lsyhprum/HDUOJ/blob/master/WATER)
 
 

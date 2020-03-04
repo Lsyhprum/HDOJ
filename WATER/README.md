@@ -60,6 +60,12 @@
 
 [2032. 杨辉三角](https://github.com/Lsyhprum/HDUOJ/tree/master/2032)
 
+[2033. 人见人爱A+B](https://github.com/Lsyhprum/HDUOJ/tree/master/2033)
+
+[2034. 人见人爱A-B](https://github.com/Lsyhprum/HDUOJ/tree/master/2034)
+
+[2035. 人见人爱A^B](https://github.com/Lsyhprum/HDUOJ/tree/master/2035)
+
 
 
 
