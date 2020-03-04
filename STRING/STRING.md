@@ -47,6 +47,12 @@ in.getline()的用法和 cin.get() 用法大致相同。但 cin.get() 当遇到�
 
 由于前一个输入函数不会清除终止字符，导致下一个输入函数错误
 
+## 汉字相关
+
+[2030. 汉字统计](https://github.com/Lsyhprum/HDUOJ/tree/master/2030)
+
+汉字机内码使用二个字节，汉字的每个字节都是 <0 的
+
 
 
 

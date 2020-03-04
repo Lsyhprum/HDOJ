@@ -1,5 +1,13 @@
 # Water
 
+[1064. Financial Management](https://github.com/Lsyhprum/HDUOJ/tree/master/1064)
+
+[1170. Balloon Comes*](https://github.com/Lsyhprum/HDUOJ/tree/master/1170)
+
+[1197. Specialized Four-Digit Numbers](https://github.com/Lsyhprum/HDUOJ/tree/master/1197)
+
+[1720. A+B Coming](https://github.com/Lsyhprum/HDUOJ/tree/master/1720)
+
 [2000. ASCII码排序*](https://github.com/Lsyhprum/HDUOJ/tree/master/2000)
 
 [2001. 计算两点间的距离](https://github.com/Lsyhprum/HDUOJ/tree/master/2001)
@@ -46,6 +54,11 @@
 
 [2025. 查找最大元素*](https://github.com/Lsyhprum/HDUOJ/tree/master/2025)
 
+[2029. Palindromes _easy version](https://github.com/Lsyhprum/HDUOJ/tree/master/2029)
+
+[2031. 进制转换](https://github.com/Lsyhprum/HDUOJ/tree/master/2031)
+
+[2032. 杨辉三角](https://github.com/Lsyhprum/HDUOJ/tree/master/2032)
 
 
 
@@ -53,13 +66,12 @@
 
 
 
-[1064. Financial Management](https://github.com/Lsyhprum/HDUOJ/tree/master/1064)
 
-[1170. Balloon Comes!](https://github.com/Lsyhprum/HDUOJ/tree/master/1170)
 
-[1197. Specialized Four-Digit Numbers](https://github.com/Lsyhprum/HDUOJ/tree/master/1197)
 
-[1720. A+B Coming](https://github.com/Lsyhprum/HDUOJ/tree/master/1720)
+
+
+
 
 
 
