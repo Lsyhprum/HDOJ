@@ -1,9 +1,10 @@
 # include <iostream>
+# include <math.h>
 
 using namespace std;
 
-const int maxn = 21;        // 最大长比 题设大 1-10
-long long dp[maxn];         // dp 数组设为 long long
+const int maxn = 30;
+long long dp[maxn];
 
 int main(){
     int n, num;
@@ -12,7 +13,7 @@ int main(){
     dp[2] = 1;
     dp[3] = 2;
     for(int i = 4; i <= 20; i ++){
-        dp[i] = dp[i - 1] * (i-1);
+        dp[i] = (i-1) * (dp[i - 1] + dp[i-2]);
     }
 
     cin >> num;
@@ -22,7 +23,8 @@ int main(){
         long long all = 1;
         for(int i = 1; i <= n; i ++)
             all *= i;
-        printf("%.2f%\%\n", dp[n] * 1.0f * 100 / all);
+
+        printf("%.2f%\%\n", dp[n] * 100.0f / all);
     }
 
     return 0;

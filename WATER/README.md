@@ -70,8 +70,6 @@
 
 [2040. 亲和数](https://github.com/Lsyhprum/HDUOJ/tree/master/WATER/2040)
 
-[2041. 超级楼梯](https://github.com/Lsyhprum/HDUOJ/tree/master/WATER/2041)
-
 [2042. 不容易系列之二](https://github.com/Lsyhprum/HDUOJ/tree/master/WATER/2042)
 
 [2043. 密码](https://github.com/Lsyhprum/HDUOJ/tree/master/WATER/2043)
