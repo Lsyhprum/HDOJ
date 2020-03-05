@@ -74,45 +74,22 @@
 
 [2043. 密码](https://github.com/Lsyhprum/HDUOJ/tree/master/WATER/2043)
 
+[2051. Bitset](https://github.com/Lsyhprum/HDUOJ/tree/master/WATER/2051)
 
+[2052. Picture](https://github.com/Lsyhprum/HDUOJ/tree/master/WATER/2052)
 
+[2053. Switch Game*](https://github.com/Lsyhprum/HDUOJ/tree/master/WATER/2053)
 
+[2055. An easy problem](https://github.com/Lsyhprum/HDUOJ/tree/master/WATER/2055)
 
+[2056. Rectangles](https://github.com/Lsyhprum/HDUOJ/tree/master/WATER/2056)
 
+[2058. The sum problem](https://github.com/Lsyhprum/HDUOJ/tree/master/WATER/2058)
 
+[2060. Snooker](https://github.com/Lsyhprum/HDUOJ/tree/master/WATER/2060)
 
+[2061. Treasure the new start, freshmen!*](https://github.com/Lsyhprum/HDUOJ/tree/master/WATER/2061)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[2039. 三角形](https://github.com/Lsyhprum/HDUOJ/tree/master/2039)
+[2062. Subset sequence](https://github.com/Lsyhprum/HDUOJ/tree/master/WATER/2062)
 
 [2734. Quicksum](https://github.com/Lsyhprum/HDUOJ/tree/master/2734)

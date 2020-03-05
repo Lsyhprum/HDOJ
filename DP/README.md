@@ -16,6 +16,8 @@
 
 [2049. 不容易系列之(4)——考新郎](https://github.com/Lsyhprum/HDUOJ/tree/master/DP/2049)
 
+[2049. 折线分割平面](https://github.com/Lsyhprum/HDUOJ/tree/master/DP/2050)
+
 
 动态规划思路：
 

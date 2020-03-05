@@ -74,6 +74,8 @@ endl 会输出 \n，然后刷新缓冲区，速度比 \n 慢，不建议使用
 
 c++ 中 cout 使用流操作算子或成员函数对输出格式进行控制，其均在头文件 iomanip 中定义
 
+[2057. A + B Again](https://github.com/Lsyhprum/HDUOJ/blob/master/INPUT-OUTPUT/2057/2057.cpp)
+
 <style>
 table th:first-of-type {
     width: 20%;

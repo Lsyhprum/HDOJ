@@ -38,6 +38,8 @@ in.getline()的用法和 cin.get() 用法大致相同。但 cin.get() 当遇到�
 
 [2017. 字符串统计](https://github.com/Lsyhprum/HDUOJ/tree/master/STRING/2017)
 
+[2629. Identity Card](https://github.com/Lsyhprum/HDUOJ/tree/master/2629)
+
 <string> 是 C++标准库头文件，用于字符串操作。<cstring> 与 <string.h> 对应，包含字符数组相关函数
 
 
@@ -54,9 +56,11 @@ in.getline()的用法和 cin.get() 用法大致相同。但 cin.get() 当遇到�
 汉字机内码使用二个字节，汉字的每个字节都是 <0 的
 
 
+## 字符串分割
 
+[2054. A == B*](https://github.com/Lsyhprum/HDUOJ/tree/master/STRING/2054)
 
-
+[2072. 单词数](https://github.com/Lsyhprum/HDUOJ/tree/master/2072)
 
 
 
@@ -68,9 +72,9 @@ in.getline()的用法和 cin.get() 用法大致相同。但 cin.get() 当遇到�
 
 [1062. Text Reverse](https://github.com/Lsyhprum/HDUOJ/tree/master/1062)
 
-[2072. 单词数](https://github.com/Lsyhprum/HDUOJ/tree/master/2072)
 
-[2629. Identity Card](https://github.com/Lsyhprum/HDUOJ/tree/master/2629)
+
+
 
 [2081. 手机短号](https://github.com/Lsyhprum/HDUOJ/tree/master/2081)
 
@@ -78,10 +82,6 @@ in.getline()的用法和 cin.get() 用法大致相同。但 cin.get() 当遇到�
 
 1. string 与 char* 相互转化（Pro.ID 1062）
 
-2. 字符串切割（Pro.ID 2072)
-
 3. 字符串截取（Pro.ID 2629)
-
-4. string 相关头文件（Pro.ID 2629)
 
 

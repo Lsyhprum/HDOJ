@@ -11,5 +11,3 @@ CE: 没搞清 string, string.h, cstring
 <string> 包含 std 的 cpp 头文件
 
 <cstring> 对应于 C 的 std 版本，实际上只是在一个命名空间std中include了 <string.h>
-
-因此直接引用 <string> 最好
