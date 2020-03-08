@@ -92,4 +92,10 @@
 
 [2062. Subset sequence](https://github.com/Lsyhprum/HDUOJ/tree/master/WATER/2062)
 
+[2090. 算菜价](https://github.com/Lsyhprum/HDUOJ/tree/master/2090)
+
+[2091. 空心三角形](https://github.com/Lsyhprum/HDUOJ/tree/master/2091)
+
+[2092. 整数解](https://github.com/Lsyhprum/HDUOJ/tree/master/2092)
+
 [2734. Quicksum](https://github.com/Lsyhprum/HDUOJ/tree/master/2734)
