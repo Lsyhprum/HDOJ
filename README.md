@@ -12,6 +12,8 @@
 
 [GEOMETRY](https://github.com/Lsyhprum/HDUOJ/blob/master/GEOMETRY)
 
+[BIT-MANIPULATION]()
+
 [WATER](https://github.com/Lsyhprum/HDUOJ/blob/master/WATER)
 
 
