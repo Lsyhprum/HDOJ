@@ -63,6 +63,8 @@ in.getline()的用法和 cin.get() 用法大致相同。但 cin.get() 当遇到�
 [2072. 单词数](https://github.com/Lsyhprum/HDUOJ/tree/master/2072)
 
 
+## KMP 算法
+
 
 
 
