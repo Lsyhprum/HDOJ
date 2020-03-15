@@ -17,3 +17,9 @@
 最小公倍数：
 
 a/db 防止溢出
+
+## 母函数
+
+https://blog.csdn.net/yu121380/article/details/79914529
+
+[2082.找单词](https://github.com/Lsyhprum/HDUOJ/tree/master/MATH/2082)

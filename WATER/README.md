@@ -92,6 +92,10 @@
 
 [2062. Subset sequence](https://github.com/Lsyhprum/HDUOJ/tree/master/WATER/2062)
 
+[2083. 简易版之最短距离](https://github.com/Lsyhprum/HDUOJ/tree/master/2083)
+
+[2085. 核反应堆](https://github.com/Lsyhprum/HDUOJ/tree/master/2085)
+
 [2090. 算菜价](https://github.com/Lsyhprum/HDUOJ/tree/master/2090)
 
 [2091. 空心三角形](https://github.com/Lsyhprum/HDUOJ/tree/master/2091)
